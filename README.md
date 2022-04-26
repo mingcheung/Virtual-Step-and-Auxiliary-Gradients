@@ -1,6 +1,6 @@
 # Virtual-Step-and-Auxiliary-Gradients
 
-Code for paper "Improving Transferability of Adversarial Example with Virtual Step and Auxiliary Gradients", IJCAI 2022.
+Code for paper "Improving Transferability of Adversarial Examples with Virtual Step and Auxiliary Gradients", IJCAI 2022.
 
 ## Introduction
 
@@ -8,7 +8,6 @@ We propose to improve the transferability of adversarial examples through the us
 Extensitive experiments on ImageNet show that the adversarial examples crafted by our method can effectively transfer to
 different networks. For single-model attacks, our method outperfoms the state-of-the-art baselines, improving the success
 rates by a large margin of 12%~28%.
-
 
 ## Dependencies
 
